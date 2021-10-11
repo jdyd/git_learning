@@ -1,2 +1,2 @@
-Hi,we are learning Git together.
+Hi,testwe are learning Git together.
 Have a good time!
